@@ -1,0 +1,4 @@
+# ninja log v7
+1	67	1768205747776866892	CMakeFiles/hello_arguments.dir/src/main.cpp.o	27bb5e2e1d70c8a4
+2	543	1768205747777492564	CMakeFiles/hello_arguments.dir/src/greeter.cpp.o	805c89cbdaa18404
+545	650	1768205748320765982	hello_arguments	f35eacfe56425d99

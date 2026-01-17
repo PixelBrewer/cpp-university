@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/alex/Projects/cpp-university/hello_args/build",
+  "command": "clang++ -I/Users/alex/Projects/cpp-university/hello_args/src -g -O0 -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/hello_arguments.dir/src/main.cpp.o -c /Users/alex/Projects/cpp-university/hello_args/src/main.cpp",
+  "file": "/Users/alex/Projects/cpp-university/hello_args/src/main.cpp",
+  "output": "/Users/alex/Projects/cpp-university/hello_args/build/CMakeFiles/hello_arguments.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/alex/Projects/cpp-university/hello_args/build",
+  "command": "clang++ -I/Users/alex/Projects/cpp-university/hello_args/src -g -O0 -std=c++17 -arch arm64 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/hello_arguments.dir/src/greeter.cpp.o -c /Users/alex/Projects/cpp-university/hello_args/src/greeter.cpp",
+  "file": "/Users/alex/Projects/cpp-university/hello_args/src/greeter.cpp",
+  "output": "/Users/alex/Projects/cpp-university/hello_args/build/CMakeFiles/hello_arguments.dir/src/greeter.cpp.o"
+}
+]
