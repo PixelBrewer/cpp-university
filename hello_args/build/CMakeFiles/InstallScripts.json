@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"/Users/alex/Projects/cpp-university/hello_args/build/cmake_install.cmake"
+		"/home/alex/Projects/Github/cpp-university/hello_args/build/cmake_install.cmake"
 	],
 	"Parallel" : false
 }
